@@ -1,21 +1,22 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package basico_gabrielazavala;
 
-/**
- *
- * @author Propietario
- */
 public class Basico_gabrielazavala {
 
-    /**
-     * @param args the command line arguments
-     */
+  public static void logicos(){
+     boolean x;
+        x = false;
+        System.out.println("La variable x es: " + x);
+        
+        x = true;
+        System.out.println("La variable x es: " + x);
+        
+        if (x == true) {
+            System.out.println("La variable x existe");
+  }
+  }   
     public static void main(String[] args) {
-        // TODO code application logic here
+        logicos();
     }
     
 }
