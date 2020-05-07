@@ -7,7 +7,7 @@ package basico_gabrielazavala;
 
 /**
  *
- * @author Propietario
+ * @author Gabriela Zavala
  */
 public class Basico_gabrielazavala {
 
